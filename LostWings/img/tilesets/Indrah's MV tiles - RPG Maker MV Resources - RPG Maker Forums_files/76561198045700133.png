@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"76d67c87403921894ff1b6d672ca7d9f",petok:"1774a263ce3a7e8e0c3f09b53386b09839b57184-1446641770-1800",zone:"steamsignature.com",rocket:"m",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=b0bfc08c34/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /card/1/76561198045700133.png was not found on this server.</p>
+</body></html>
