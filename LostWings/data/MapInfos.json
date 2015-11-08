@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Prelude","order":1,"parentId":0,"scrollX":442.5,"scrollY":457},
 {"id":2,"expanded":false,"name":"History Classroom","order":8,"parentId":4,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"Fairlight Academy (Exterior)","order":4,"parentId":18,"scrollX":816,"scrollY":1376},
+{"id":3,"expanded":true,"name":"Fairlight Academy (Exterior)","order":4,"parentId":18,"scrollX":2646,"scrollY":967},
 {"id":4,"expanded":false,"name":"Fairlight Academy (Interior)","order":5,"parentId":3,"scrollX":1160,"scrollY":447},
 {"id":5,"expanded":false,"name":"Female Toilets","order":6,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"Library","order":7,"parentId":4,"scrollX":819,"scrollY":461},
@@ -18,5 +18,5 @@ null,
 {"id":16,"expanded":false,"name":"Female Dormitories #5","order":16,"parentId":15,"scrollX":0,"scrollY":0},
 {"id":17,"expanded":false,"name":"Male Dormitories #8","order":17,"parentId":15,"scrollX":0,"scrollY":0},
 {"id":18,"expanded":true,"name":"Chapter I","order":2,"parentId":0,"scrollX":482,"scrollY":455},
-{"id":19,"expanded":false,"name":"Yokai Forest","order":3,"parentId":18,"scrollX":0,"scrollY":0}
+{"id":19,"expanded":false,"name":"Yokai Forest","order":3,"parentId":18,"scrollX":486,"scrollY":657}
 ]
