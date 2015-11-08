@@ -1,12 +1,13 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Prelude","order":1,"parentId":0,"scrollX":442.5,"scrollY":457},
-{"id":2,"expanded":false,"name":"Religious Studies","order":6,"parentId":4,"scrollX":452.5,"scrollY":455},
-{"id":3,"expanded":true,"name":"Fairlight Academy (Exterior)","order":2,"parentId":0,"scrollX":1224.5,"scrollY":804},
-{"id":4,"expanded":true,"name":"Fairlight Academy (Interior)","order":3,"parentId":3,"scrollX":1294,"scrollY":924},
+{"id":2,"expanded":false,"name":"History Classroom","order":6,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Fairlight Academy (Exterior)","order":2,"parentId":0,"scrollX":816,"scrollY":624},
+{"id":4,"expanded":false,"name":"Fairlight Academy (Interior)","order":3,"parentId":3,"scrollX":1160,"scrollY":847},
 {"id":5,"expanded":false,"name":"Female Toilets","order":4,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"Library","order":5,"parentId":4,"scrollX":819,"scrollY":461},
-{"id":7,"expanded":false,"name":"Male Toilets","order":7,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"Field Studies","order":8,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":false,"name":"Headmaster Yuul's Office","order":9,"parentId":4,"scrollX":819,"scrollY":461}
+{"id":7,"expanded":false,"name":"Male Toilets","order":7,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Field Studies","order":8,"parentId":4,"scrollX":811,"scrollY":499},
+{"id":9,"expanded":false,"name":"Headmaster Yuul's Office","order":9,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":false,"name":"Cathedral","order":10,"parentId":3,"scrollX":474,"scrollY":601}
 ]
